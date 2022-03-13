@@ -6,7 +6,7 @@
 2. an IDE (VSCode, Intellij IDEA...)
 3. MySQL server installed
 4. MySQL Workbench installed
-5. Postman()
+5. Postman
 
 ### How to use this repo:
 1. Clone this repo into your local machine
