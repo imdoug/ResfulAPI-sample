@@ -16,5 +16,6 @@
 5. Open this repo with your IDE of choice
 6. Run the app and see everything working on localhost:8080
 7. Test all the routes using Postman
+8. Update MySQL workbench to see the saved data
 
 
